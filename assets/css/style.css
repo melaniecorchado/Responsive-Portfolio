@@ -155,5 +155,17 @@ footer {
 	text-align: center;
 	background-color: #666666;
 	color: #ebebeb;
+}
+
+@media screen and (max-width: 960px) {
 
 }
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 640px) {
+
+}
+
