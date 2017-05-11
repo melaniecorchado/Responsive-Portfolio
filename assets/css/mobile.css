@@ -282,6 +282,11 @@ input[type=submit] {
   .work h3 {
     width: 50%;
   }
+
+  p {
+  width: 70%;
+}
+
 }
 
 /* small devices */
@@ -291,7 +296,7 @@ input[type=submit] {
   }
 
   .main-section {
-    width: 30%;
+    width: 70%;
 
   }
   
@@ -309,6 +314,10 @@ input[type=submit] {
 
 .work h3 {
   width: 30%;
+}
+
+p {
+  width: 55%;
 }
 
 }
