@@ -157,14 +157,16 @@ footer {
 	color: #ebebeb;
 }
 
+/* large devices */
 @media screen and (max-width: 960px) {
+	
 
 }
-
+/* medium devices */
 @media screen and (max-width: 768px) {
 
 }
-
+/* small devices */
 @media screen and (max-width: 640px) {
 
 }
