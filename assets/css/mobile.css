@@ -266,6 +266,7 @@ input[type=submit] {
   }
   .main-section {
     width:50%;
+    float: none;
   }
   
   .sidebar {
@@ -297,6 +298,7 @@ input[type=submit] {
 
   .main-section {
     width: 70%;
+    float: none;
 
   }
   
@@ -317,7 +319,10 @@ input[type=submit] {
 }
 
 p {
-  width: 55%;
+  width: 75%;
 }
 
+.contact-form {
+  width: 75%;
+}
 }
